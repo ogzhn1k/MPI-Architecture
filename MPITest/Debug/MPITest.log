@@ -1,0 +1,14 @@
+﻿  MPITest.cpp
+C:\Users\oguzh\source\repos\MPITest\MPITest\MPITest.cpp(135,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oguzh\source\repos\MPITest\MPITest\MPITest.cpp(140,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oguzh\source\repos\MPITest\MPITest\MPITest.cpp(146,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oguzh\source\repos\MPITest\MPITest\MPITest.cpp(148,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oguzh\source\repos\MPITest\MPITest\MPITest.cpp(75,22): warning C4101: 'mB': unreferenced local variable
+C:\Users\oguzh\source\repos\MPITest\MPITest\MPITest.cpp(74,22): warning C4101: 'mA': unreferenced local variable
+C:\Users\oguzh\source\repos\MPITest\MPITest\MPITest.cpp(226,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oguzh\source\repos\MPITest\MPITest\MPITest.cpp(231,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oguzh\source\repos\MPITest\MPITest\MPITest.cpp(236,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oguzh\source\repos\MPITest\MPITest\MPITest.cpp(238,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oguzh\source\repos\MPITest\MPITest\MPITest.cpp(166,22): warning C4101: 'mB': unreferenced local variable
+C:\Users\oguzh\source\repos\MPITest\MPITest\MPITest.cpp(165,22): warning C4101: 'mA': unreferenced local variable
+  MPITest.vcxproj -> C:\Users\oguzh\source\repos\MPITest\Debug\MPITest.exe
